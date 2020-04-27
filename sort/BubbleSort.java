@@ -26,11 +26,4 @@ public class BubbleSort {
 
         return nums;
     }
-
-    public static void main(String[] args) {
-        BubbleSort sort = new BubbleSort();
-        int[] nums = {10, 2, 1, 8, 4, 19, 21, 30, 7};
-        int[] res = sort.bubbleSort(nums);
-        System.out.println(Arrays.toString(res));
-    }
 }

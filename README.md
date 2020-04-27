@@ -1,2 +1,2 @@
  - sort 排序算法的实现
- - listnode  常见链表类方法
+ - listnode 常见链表类方法
