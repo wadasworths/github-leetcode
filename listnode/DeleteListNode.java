@@ -4,6 +4,7 @@ package com.wadas.listnode;
  * @author: longfellow
  * @date: 2020/4/27
  */
+
 public class DeleteListNode {
     public ListNode delListNode (ListNode head, ListNode target){
         if (target == null) return head;
